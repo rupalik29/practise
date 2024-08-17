@@ -7,8 +7,8 @@ public class Demo {
 		System.out.println("Hii");
 		System.out.println("Hello");
 		System.out.println("Good Evening");
-		System.out.println("================================");
-		System.out.println("Goog night");
+		//System.out.println("================================");
+		//System.out.println("Goog night");
 		
 	}
 }
