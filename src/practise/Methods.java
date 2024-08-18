@@ -7,6 +7,7 @@ public class Methods {
 		System.out.println("Welcome to Java");
 		System.out.println("welcome to selenium");
 		System.out.println("welcome to github");
+		System.out.println("welcome to Maven");
 		
 	}
 
